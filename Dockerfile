@@ -10,3 +10,4 @@ WORKDIR /FakerRealText
 RUN pip install -U pip
 RUN pip install mecab-python3
 RUN pip install unidic-lite
+RUN pip install memory-profiler
